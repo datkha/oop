@@ -1,5 +1,4 @@
 package com.example.generics;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
